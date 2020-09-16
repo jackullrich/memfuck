@@ -9,4 +9,5 @@ To look up syscall numbers for your system, please visit: https://j00ru.vexilliu
 
 Tested on Windows 10 x64 Build 19041.508
 
-winternl.com
+To learn more about the project visit:
+https://winternl.com/memfuck/
