@@ -46,7 +46,8 @@ unsigned char data[620] = {
 };
 
 // PoC:
-// https://github.com/jackullrich
+// https://github.com/jackullrich/memfuck
+// https://winternl.com/memfuck/
 
 // Thanks to rewolf for all the heavy lifting with the wow64ext
 // https://github.com/rwfpl/rewolf-wow64ext
